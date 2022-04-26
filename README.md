@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balaji.R
-- 👀 I’m interested in Python Programming Language
-- 🌱 I’m currently learning SQL 
+- 👀 I’m interested in SQL
+- 🌱 I’m currently learning Python Programming Language
 - 📫 How to reach me balaji.r.2020.ad@ritchennai.edu.in
 
 <!---
